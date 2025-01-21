@@ -18,7 +18,7 @@ Run ```python train.py**``` to train your model.
 
 Download the SAM model from [sam](https://pan.baidu.com/s/1ARi3yGOQk5kch3mKCMukiA?pwd=p24w) and put it into `'.//mobile_sam/weights/'`.
 
-Download the training dataset from [MSRS](https://pan.baidu.com/s/18q_3IEHKZ48YBy2PzsOtRQ?pwd=MSRS)
+Download the training dataset from [MSRS](https://pan.baidu.com/s/18q_3IEHKZ48YBy2PzsOtRQ?pwd=MSRS).
 
 # To Test
 
