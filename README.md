@@ -14,7 +14,7 @@ The overall framework of the proposed SpTFuse.
 
 # To Train
 
-Run ```python train.py**``` to train your model.
+Run ```python train.py``` to train the model.
 
 Download the SAM model from [sam](https://pan.baidu.com/s/1ARi3yGOQk5kch3mKCMukiA?pwd=p24w) and put it into `'.//mobile_sam/weights/'`.
 
