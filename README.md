@@ -3,7 +3,7 @@ This is official Pytorch implementation of "SAM-guided multi-level collaborative
 
 # Framework
 The overall framework of the proposed SpTFuse.
-![image](https://github.com/Chenjia-Yang/KDFuse/blob/main/image/framework.png)
+![image](https://github.com/lxq-jnu/SpTFuse/blob/master/images/framework.png)
 
 ## Recommended Environment
  - [ ] torch  1.13.0
